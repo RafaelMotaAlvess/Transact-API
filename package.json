@@ -1,0 +1,30 @@
+{
+  "name": "transact-api",
+  "version": "1.0.0",
+  "description": "Node Rest API for financial transactions",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx watch src/server.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaelMotaAlvess/Transact-API.git"
+  },
+  "author": "Rafael Mota Alves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RafaelMotaAlvess/Transact-API/issues"
+  },
+  "homepage": "https://github.com/RafaelMotaAlvess/Transact-API#readme",
+  "devDependencies": {
+    "@rocketseat/eslint-config": "^2.1.0",
+    "@types/node": "^20.8.9",
+    "tsx": "^3.14.0",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "fastify": "^4.24.3",
+    "knex": "^3.0.1",
+    "sqlite3": "^5.1.6"
+  }
+}
