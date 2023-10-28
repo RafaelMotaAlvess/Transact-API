@@ -130,4 +130,4 @@ dist
 .pnp.*
 
 # ingore temp DB
-tmp/app.db
+database/app.db
