@@ -82,8 +82,6 @@ $ npm install
 | `GET /transactions/:id`     | Get a specific transaction |
 | `GET /transactions/summary` | Get the summary            |
 
-## Observation
-
 ## 📃 License
 
 The project is under the license [MIT license](./LICENSE).
