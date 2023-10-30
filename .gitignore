@@ -130,6 +130,9 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-# ingore temp DB
+# Database
 database/app.db
 database/test.db
+
+# Build
+build
