@@ -23,15 +23,15 @@ The project was conducted for studies on REST APIs, developed in TypeScript, and
 
 ## 🔧 Technologies
 
-- <a target="_blank" href="">TypeScript</a>
-- <a target="_blank" href="">Fastify</a>
-- <a target="_blank" href="">Knex</a>
-- <a target="_blank" href="">Vitest</a>
-- <a target="_blank" href="">PostgreSQL</a>
-- <a target="_blank" href="">SQLite</a>
-- <a target="_blank" href="">Zod</a>
-- <a target="_blank" href="">Supertest</a>
-- <a target="_blank" href="">Tsup</a>
+- <a target="_blank" href="https://www.typescriptlang.org">TypeScript</a>
+- <a target="_blank" href="https://fastify.dev">Fastify</a>
+- <a target="_blank" href="https://knexjs.org">Knex</a>
+- <a target="_blank" href="https://vitest.dev">Vitest</a>
+- <a target="_blank" href="https://www.postgresql.org">PostgreSQL</a>
+- <a target="_blank" href="https://www.sqlite.org/index.html">SQLite</a>
+- <a target="_blank" href="https://zod.dev">Zod</a>
+- <a target="_blank" href="https://github.com/ladjs/supertest#readme">Supertest</a>
+- <a target="_blank" href="https://tsup.egoist.dev">Tsup</a>
 
 ## ✨ How to Run
 
